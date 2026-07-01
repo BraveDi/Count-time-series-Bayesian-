@@ -2,7 +2,7 @@ This repository contains the R code used for the real-data application in the pa
 
 ## Contents
 1. R Code for TLC.R - R codes for real analysis.
-2. TLC.xlsx -  Contains the Agricultural dataset containing observations on Tomato Leaf Curl Disease (TLC) incidence.
+2. FINALDATA.csv -  Contains the Agricultural dataset containing observations on Tomato Leaf Curl Disease (TLC) incidence.
 
 ## Requirements 
 1. R version 4.5.3 or higher.
