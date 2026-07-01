@@ -1,7 +1,7 @@
 This repository contains the R code used for the real-data application in the paper: "Parameter estimation of Count Data models using Bayesian techniques"
 
 ## Contents
-1. TLC.1.R - R codes for real analysis.
+1. R Code for TLC.R - R codes for real analysis.
 2. TLC.xlsx -  Contains the Agricultural dataset containing observations on Tomato Leaf Curl Disease (TLC) incidence.
 
 ## Requirements 
